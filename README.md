@@ -2,7 +2,13 @@
 
 **Overview**
 
-This Python program is a graphical user interface (GUI) tool built using Tkinter that calculates the Common Vulnerability Scoring System (CVSS) base score based on user-selected vulnerability metrics. It allows users to select various metrics like Access Vector, Access Complexity, Authentication, Confidentiality Impact, Integrity Impact, and Availability Impact. The program then calculates the CVSS score, helping assess the severity of a security vulnerability.
+This Python program is a graphical user interface (GUI) tool built using Tkinter that calculates the Common Vulnerability Scoring System (CVSS) base score based on user-selected vulnerability metrics. 
+
+The Common Vulnerability Scoring System (CVSS), which is a widely used framework for assessing the severity of security vulnerabilities. The specific methodology, including the metrics and calculations, follows the CVSS standards set by the FIRST.org (Forum of Incident Response and Security Teams), which maintains the official CVSS specifications.
+
+One commonly used online version of a CVSS calculator is hosted on the NVD (National Vulnerability Database) website by the National Institute of Standards and Technology (NIST), which implements the CVSS system for vulnerability scoring: https://nvd.nist.gov/vuln-metrics/cvss
+
+It allows users to select various metrics like Access Vector, Access Complexity, Authentication, Confidentiality Impact, Integrity Impact, and Availability Impact. The program then calculates the CVSS score, helping assess the severity of a security vulnerability.
 
 **Functionality**
 
