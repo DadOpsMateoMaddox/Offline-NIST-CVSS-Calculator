@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter import ttk
 
 # OpenAI API Key
-openai.api_key = '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'
+openai.api_key = 'sk-proj-GetYourOwnAPIKey here https://platform.openai.com/api-keys'
 
 # Function to interact with ChatGPT API using the new ChatCompletion method
 def interact_with_chatgpt(prompt):
